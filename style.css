@@ -250,6 +250,7 @@ a.icon-link:hover:after {
 .client-section {
   background: var(--grey-color);
   border: 1px solid #e1e1e1;
+  border-radius: 10px;
 }
 
 iconify-icon.client-quote-icon {
